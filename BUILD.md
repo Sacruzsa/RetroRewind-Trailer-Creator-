@@ -18,7 +18,7 @@ The finished application and installer do not require Python on the end user's c
 Using Git:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/RetroRewind-Trailer-Creator.git
+git clone https://github.com/Sacruzsa/RetroRewind-Trailer-Creator-.git
 cd RetroRewind-Trailer-Creator
 ```
 
