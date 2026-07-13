@@ -1,0 +1,8 @@
+RETROREWIND TRAILER CREATOR V13.1.0
+
+- Preview hernoemd naar Video’s in alle talen.
+- Videobibliotheek met tabs voor Converted video’s en Game Video’s.
+- Gecreëerde Game Video-lijst verwijderd uit Game Video-menu.
+- Play previewt nu de volledige clipvolgorde.
+- Nieuwe rode REC-knop genereert de definitieve Game Video.
+- Handleiding uitgebreid met afbeeldingen en alle nieuwe handelingen.

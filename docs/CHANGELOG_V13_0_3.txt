@@ -1,0 +1,7 @@
+RETROREWIND TRAILER CREATOR V13.1.0
+
+- Play-knop in Game Video hersteld voor geselecteerde gegenereerde Game Video’s.
+- Actieve selectie wordt betrouwbaar bijgehouden tussen geconverteerde clips en gegenereerde outputs.
+- Dubbelklik op een gegenereerde Game Video opent de ingebouwde preview.
+- Game Video-interface rustiger gemaakt met compactere VCR-bediening en minder dubbele weergave-elementen.
+- Setup-, installer- en handleidingbestanden bijgewerkt.

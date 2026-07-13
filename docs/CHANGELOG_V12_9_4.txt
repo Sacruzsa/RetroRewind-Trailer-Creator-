@@ -1,0 +1,10 @@
+RetroRewind Trailer Creator 12.9.4
+
+- De oude .workspace-map wordt nergens meer aangemaakt.
+- Verouderde instellingen worden nu ook herkend wanneer ze naar een .workspace in een vorige installatielocatie verwijzen, bijvoorbeeld op het bureaublad.
+- Bestaande video’s uit downloads, converted videos en final in een oude .workspace worden veilig gemigreerd.
+- De installer bevat een aparte pagina om de bovenliggende opslaglocatie voor videobestanden te kiezen.
+- Standaard is deze locatie gelijk aan de gekozen installatiemap.
+- De installer maakt automatisch de drie mappen RetroRewind Trailer Creator downloads, RetroRewind Trailer Creator converted videos en RetroRewind Trailer Creator final aan.
+- De drie locaties blijven achteraf afzonderlijk wijzigbaar via Instellingen.
+- De volledige bestaande download-, conversie-, samenvoeg-, taal-, thema-, snelkoppeling- en contactfunctionaliteit is behouden.

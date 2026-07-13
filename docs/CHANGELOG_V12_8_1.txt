@@ -1,0 +1,7 @@
+RETROREWIND TRAILER CREATOR 12.8.1
+
+- Removed the generated encrypted temporary entry point that could be blocked or locked by antivirus software.
+- Fixed PyInstaller PermissionError 13 during installation.
+- Changed the release build from one-file to one-folder mode to reduce false-positive antivirus detections.
+- The installed application still contains no readable .py source files.
+- Existing settings, downloads, converted videos and final videos are preserved during updates.

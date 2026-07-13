@@ -1,0 +1,7 @@
+RetroRewind Trailer Creator V13.0.0
+
+- MCI-preview volledig verwijderd.
+- Ingebouwde preview gebruikt nu de meegeleverde FFmpeg-engine.
+- Geen afhankelijkheid meer van geïnstalleerde Windows MCI-codecs.
+- Subtiele vermelding “Created by Sacruzsa” toegevoegd.
+- Setup- en updatebestanden bijgewerkt.

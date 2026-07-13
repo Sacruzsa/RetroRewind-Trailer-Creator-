@@ -1,0 +1,7 @@
+RETROREWIND TRAILER CREATOR V13.0.2
+
+- Previewknop hersteld en robuuster gemaakt.
+- Preview toont geconverteerde video’s en gegenereerde Game Video’s in twee afzonderlijke tabbladen.
+- Created by Sacruzsa staat voortaan in de titelbalk en overlapt geen bediening.
+- Game Video Locatie opent zowel de ingestelde opslagmap als de Retro Rewind Steam-map.
+- Setup-, installer- en handleidingbestanden bijgewerkt.

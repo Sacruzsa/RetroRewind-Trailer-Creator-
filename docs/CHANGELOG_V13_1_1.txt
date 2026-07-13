@@ -1,0 +1,7 @@
+RetroRewind Trailer Creator V13.1.1
+
+- Herstelt de fout bij Volgorde bekijken in Game Video.
+- Initialiseert self.ffmpeg_path centraal bij het starten van de applicatie.
+- Gebruikt een veilige fallback naar de gebundelde FFmpeg voor sequence previews.
+- Controleert tools\ffmpeg.exe voordat de definitieve Setup wordt gebouwd.
+- Werkt installer-, build- en versiebestanden bij naar 13.1.1.

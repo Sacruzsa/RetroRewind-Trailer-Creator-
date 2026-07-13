@@ -1,0 +1,8 @@
+RetroRewind Trailer Creator V13.1.0
+
+- Acht werkelijk verschillende interface-thema’s toegevoegd.
+- Classic VCR, Neon Video Club, Arcade Recorder, Home Computer 1984, Sci-Fi Control Deck, Detective Night, Light Studio en Dark Studio.
+- Elk thema heeft eigen paneel-, knop-, display-, statuslamp- en accentkleuren.
+- Oude themakeuzes worden automatisch naar een passend nieuw thema omgezet.
+- Themawisseling behoudt alle bestaande functies en voert de bestaande veilige interfaceherstart uit.
+- Setup-, installer-, handleiding- en versiebestanden bijgewerkt.

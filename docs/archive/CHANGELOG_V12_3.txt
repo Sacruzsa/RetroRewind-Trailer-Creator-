@@ -1,0 +1,13 @@
+RETROREWIND TRAILER CREATOR 12.3.0
+
+OPGELOST
+- Probleem opgelost waarbij bij langere samengestelde video's het beeld na ongeveer 15 minuten kon stoppen terwijl het geluid verderging.
+- De oude concat-demuxer is vervangen door FFmpeg's concat-filter.
+- Elke genormaliseerde clip krijgt vóór het samenvoegen opnieuw tijdstempel nul voor video en audio.
+- De volledige eindvideo wordt na het maken automatisch gedecodeerd en gecontroleerd op beschadigde of afgebroken beeld- en geluidsstreams.
+- De FFmpeg muxing queue is vergroot voor langere projecten met veel clips.
+
+BELANGRIJK
+- Er is geen vaste tijdslimiet van 15 of 25 minuten.
+- Video's van 25 minuten en langer worden ondersteund zolang er voldoende vrije schijfruimte, geheugen en verwerkingstijd beschikbaar zijn.
+- Het samenvoegen duurt langer omdat alle clips opnieuw worden gecodeerd en de eindvideo daarna volledig wordt gecontroleerd.

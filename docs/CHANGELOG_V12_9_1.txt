@@ -1,0 +1,10 @@
+RetroRewind Trailer Creator V12.9.1
+
+- Releasebuilder volledig herschreven.
+- Foutieve vaste build\app-map verwijderd.
+- PyInstaller bouwt naar build\dist\RetroRewind Trailer Creator.
+- Inno Setup krijgt absolute SourceDir- en OutputDir-definities.
+- Werkt met projectpaden die spaties en haakjes bevatten.
+- Extra controles voor vereiste bestanden, gebouwde EXE en Setup.exe.
+- Verbeterde foutmeldingen en vensters op de voorgrond.
+- Bestaande applicatiefuncties ongewijzigd behouden.

@@ -1,0 +1,26 @@
+RETROREWIND TRAILER CREATOR 12.0.0
+
+AANGEPAST
+- Licht en donker thema toegevoegd en opgeslagen in settings.json.
+- Taalwissel hersteld: interface wordt pas na het combobox-event opnieuw opgebouwd.
+- Tab 2 volgt automatisch de map downloads.
+- Tab 3 volgt automatisch de map converted videos.
+- Mapbewaking detecteert ook extern toegevoegde, verwijderde of gewijzigde bestanden.
+- Interfacekleuren, knoppen, tabbladen, invoervelden en bestandslijsten gemoderniseerd.
+- Gebruikershandleiding volledig bijgewerkt.
+- Broncode in src/app.py en het volledige .pyw-bestand gelijkgetrokken.
+- Buildscript voor een nieuwe Windows-release toegevoegd.
+
+BELANGRIJK
+De bestaande meegeleverde EXE uit versie 11 is niet vervangen door een Windows-build in deze broncode-update.
+Voer build_release.bat uit op Windows om de nieuwe versie 12 EXE te genereren.
+
+V12.1.0
+- Language and theme selectors remain visible after switching.
+- UI rebuild is delayed and debounced until the combobox event has completed.
+- Active tab and entered data are preserved during language/theme changes.
+- Main layout now uses fixed grid rows so lower controls cannot disappear behind the notebook.
+- Download link field now clearly explains that one link belongs on each line.
+- Added Paste button and right-click Cut/Copy/Paste/Select All menu.
+- Added Ctrl+V support and a vertical scrollbar to the link field.
+- Tab event bindings are recreated safely after each interface refresh.

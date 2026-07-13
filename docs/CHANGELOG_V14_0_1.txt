@@ -1,0 +1,15 @@
+RetroRewind Trailer Creator V14.0.1 — Nexus Mods Edition
+
+- Removed the standalone updater and all automatic update metadata.
+- No background update checks or unsolicited network connections.
+- Internet access occurs only when the user explicitly downloads a YouTube video.
+- Removed PowerShell execution from the application.
+- Shortcut creation now uses the Windows COM API with a safe URL-shortcut fallback.
+- Contact opens a user-approved Outlook draft or the default mail client.
+- The release builder now creates one Inno Setup installer and a clean Nexus upload ZIP.
+- Existing settings, downloaded videos, converted videos and Game Videos remain preserved when installing over an older version.
+
+Builder fix:
+- Removed the incorrect check for a separate update installer script.
+- The build console now remains open and writes BUILD_SETUP_LOG.txt.
+- Added clearer diagnostics for missing Python, source errors and setup build failures.

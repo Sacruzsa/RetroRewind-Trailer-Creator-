@@ -1,0 +1,10 @@
+RetroRewind Trailer Creator 12.8.0
+
+- De installatie bouwt voortaan een beveiligde release-entry in een tijdelijke map.
+- De originele Python-broncode wordt nooit naar de installatiemap gekopieerd.
+- De beveiligde code wordt gecompileerd, gecomprimeerd, versleuteld en voorzien van een integriteitscontrole.
+- De applicatie wordt als één zelfstandige EXE geïnstalleerd.
+- Oude bron-, script-, build- en cachebestanden worden bij updates uit de installatiemap verwijderd.
+- Gebruikersinstellingen, downloads, geconverteerde video's en finale video's blijven behouden.
+
+Opmerking: geen enkele lokale desktopapplicatie kan volledig onmogelijk te reverse-engineeren worden gemaakt. Deze release verhoogt de drempel aanzienlijk en voorkomt toegang tot leesbare broncode voor normale eindgebruikers.

@@ -1,0 +1,6 @@
+RetroRewind Trailer Creator V13.0.0
+
+- Added synchronized audio to the built-in FFmpeg preview.
+- Added timeline seeking, 10-second rewind/forward, pause, stop and volume controls.
+- Added subtle “Created by Sacruzsa” credits to the main interface and custom pop-ups.
+- Updated build, setup and documentation files.

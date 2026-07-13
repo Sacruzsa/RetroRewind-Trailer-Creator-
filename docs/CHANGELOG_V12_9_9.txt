@@ -1,0 +1,9 @@
+RETROREWIND TRAILER CREATOR 12.9.9
+
+- De zichtbare tabs zijn vervangen door een VCR-transportpaneel.
+- Download, Convert, Game Video, Stop, Preview, Settings, Manual en Create zijn onderaan bereikbaar.
+- De verwijderknop gebruikt nu een vuilbakicoon.
+- De Game Video-layout gebruikt een robuust grid zodat bediening in lijst- en pictogramweergave zichtbaar blijft.
+- Preview toont de gemaakte video in een VCR-popup en kan deze openen in de standaard videospeler.
+- Download- en conversievoortgang verschijnt in een VCR-displayvenster.
+- Setup- en updatebestanden bijgewerkt voor 12.9.9.

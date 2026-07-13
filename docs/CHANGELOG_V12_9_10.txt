@@ -1,0 +1,9 @@
+RETROREWIND TRAILER CREATOR 13.0.0
+
+- De VCR-navigatie is verplaatst naar de positie van de vroegere tabs.
+- De STOP- en rode REC/CREATE-knoppen zijn uit de hoofdnavigatie verwijderd.
+- Game Video Preview speelt op Windows rechtstreeks af in de popup via de ingebouwde Windows-mediaspeler.
+- Veranderen van lijst- naar pictogramweergave voert een snelle, veilige herstart uit en bewaart de actieve pagina.
+- De voortgangsbalk bij downloaden, converteren en samenvoegen is vervangen door een geanimeerde digitale audio-spectrumweergave.
+- De bestaande download-, conversie-, samenvoeg-, verwijder-, instellingen- en handleidingfuncties zijn behouden.
+- Setup- en updatebestanden bijgewerkt voor 13.0.0.

@@ -1,0 +1,9 @@
+RetroRewind Trailer Creator 12.9.0
+
+- Professionele vooraf gebouwde Setup.exe-release toegevoegd.
+- Eindgebruikers hebben geen Python, pip of PyInstaller nodig.
+- Vier installatietalen via Inno Setup.
+- Vrije installatiemap, Startmenu, optionele bureaubladsnelkoppeling en uninstaller.
+- Gekozen installatietaal wordt automatisch als applicatietaal ingesteld.
+- Eénklik-builder voor de ontwikkelcomputer.
+- Alle bestaande applicatiefuncties van 12.8.1 behouden.

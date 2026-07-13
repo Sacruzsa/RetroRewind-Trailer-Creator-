@@ -1,0 +1,9 @@
+RETROREWIND TRAILER CREATOR 12.5.0
+
+- De installer vraagt vóór alle andere stappen om Nederlands, Frans, Engels of Duits.
+- De gekozen installatietaal wordt ook als applicatietaal opgeslagen zonder andere instellingen te wissen.
+- Het instellingenvenster is volledig heringericht in drie overzichtelijke tabbladen:
+  Weergave, Mappen en Ondersteuning.
+- Maplocaties hebben afzonderlijke knoppen om te kiezen en rechtstreeks te openen.
+- Een derde thema "Licht/donker mix" is toegevoegd.
+- Bestaande download-, conversie-, samenvoeg-, contact-, snelkoppeling- en mapfuncties blijven behouden.

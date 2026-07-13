@@ -1,0 +1,19 @@
+RetroRewind Trailer Creator V12.9.2
+===================================
+
+INSTALLATIE
+- De installer laat de gebruiker opnieuw vrij een installatiemap kiezen.
+- Installatie werkt in Program Files, een eigen map, een andere schijf of een gebruikersmap.
+- De installer voegt de applicatienaam niet onbedoeld dubbel toe aan een handmatig gekozen pad.
+- Installatie kan met beheerrechten of via de installatiemodusdialoog worden uitgevoerd.
+
+OPSLAGMAPPEN
+- Downloads, Omgezet en Final staan niet langer in de installatiemap.
+- Nieuwe standaardlocatie: Videos\\RetroRewind Trailer Creator.
+- Iedere opslagmap kan afzonderlijk via Instellingen worden gekozen.
+- De gekozen locaties blijven bewaard in de gebruikersinstellingen.
+- Installatie op het bureaublad veroorzaakt geen werkmappen meer op het bureaublad.
+
+COMPATIBILITEIT
+- Bestaande bestanden uit downloads, converted videos, final en de oude .workspace worden automatisch gemigreerd.
+- Alle download-, conversie-, samenvoeg-, taal-, thema-, snelkoppeling- en contactfuncties blijven behouden.

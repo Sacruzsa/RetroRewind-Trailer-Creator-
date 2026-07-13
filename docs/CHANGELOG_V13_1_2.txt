@@ -1,0 +1,6 @@
+RetroRewind Trailer Creator V13.1.2
+
+- Hersteld: Game Video > Play toont niet langer een reeds gemaakte eindvideo.
+- De preview wordt telkens opnieuw opgebouwd uit alle clips die op dat moment in de lijst staan, in exact dezelfde volgorde.
+- De preview wordt als uniek tijdelijk bestand gemaakt en automatisch verwijderd na het sluiten.
+- Geen wijziging aan de definitieve REC/Generate-functionaliteit.

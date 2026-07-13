@@ -1,0 +1,8 @@
+RETROREWIND TRAILER CREATOR 12.7.0
+
+- Taalwijzigingen starten de applicatie gecontroleerd opnieuw op, zodat download-, conversie- en samenvoegfuncties volledig opnieuw worden geïnitialiseerd.
+- Het contactformulier staat rechtstreeks in het tabblad Contact van Instellingen.
+- Contactmails gebruiken een nette HTML-opmaak met afzonderlijke velden voor Naam, Onderwerp, Beschrijving of suggestie en Afbeelding.
+- Geselecteerde afbeeldingen worden inline in de Outlook-mail weergegeven; andere bestanden blijven normale bijlagen.
+- De mail-fallback gebruikt echte regeleinden in plaats van zichtbare \r\n-tekst.
+- Bestaande thema-, map-, snelkoppeling-, download-, conversie- en Game Video-functionaliteit is behouden.

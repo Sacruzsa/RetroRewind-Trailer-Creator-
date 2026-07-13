@@ -1,0 +1,8 @@
+RetroRewind Trailer Creator V13.0.0
+
+- Corrected embedded MCI preview initialization on Windows.
+- Theme changes now use a complete safe restart, matching language changes.
+- Removed the duplicate Preview button from the Game Video action row.
+- Kept the Play button beside the Game Video list.
+- Updated the multilingual in-app manual and HTML manual.
+- Updated setup and build version information.

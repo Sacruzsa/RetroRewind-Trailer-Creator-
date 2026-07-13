@@ -1,0 +1,13 @@
+RetroRewind Trailer Creator V12.9.3
+
+- De verborgen .workspace-map wordt niet meer aangemaakt.
+- De standaard opslagmappen staan in de gekozen installatiemap:
+  * RetroRewind Trailer Creator downloads
+  * RetroRewind Trailer Creator converted videos
+  * RetroRewind Trailer Creator final
+- In Instellingen kiest de gebruiker per onderdeel een bovenliggende locatie.
+  De vereiste benoemde map wordt daar automatisch aangemaakt.
+- Oude bestanden uit .workspace worden veilig naar de nieuwe standaardmappen verplaatst.
+- Oude instellingen die nog naar .workspace verwijzen worden automatisch gecorrigeerd.
+- De Inno Setup-installer maakt de drie standaardmappen aan en kent schrijfrechten toe.
+- Alle bestaande download-, conversie-, samenvoeg-, taal-, thema-, snelkoppeling- en contactfuncties blijven behouden.

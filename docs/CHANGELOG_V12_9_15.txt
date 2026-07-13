@@ -1,0 +1,8 @@
+RetroRewind Trailer Creator V13.0.0
+
+- Audio wordt bij slepen en spoelen opnieuw vanaf exact dezelfde positie gestart als het beeld.
+- Compacte werkende volumeregelaar.
+- Conversiescherm verdeeld in bronvideo’s en reeds geconverteerde video’s.
+- Open converted videos staat onder de uitvoerlijst.
+- Created by Sacruzsa zichtbaar in aangepaste vensters en menu’s.
+- Handleiding, buildscript en installer bijgewerkt.

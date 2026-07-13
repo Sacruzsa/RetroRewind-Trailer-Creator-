@@ -1,0 +1,25 @@
+THIRD-PARTY NOTICES
+
+FFmpeg
+- Website: https://ffmpeg.org/
+- The supplied ffmpeg.exe was provided by the user.
+- FFmpeg builds may be licensed under LGPL 2.1+ or GPL 2+, depending on build configuration.
+- Run `ffmpeg.exe -version` on Windows and consult the distributor/build source to determine the exact configuration and corresponding source-code obligations.
+
+GNU LGPL 2.1: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+GNU GPL 2.0: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+WARNING: The origin and build configuration of the user-supplied binary could not be independently verified in this Linux build environment.
+
+yt-dlp
+- Website: https://github.com/yt-dlp/yt-dlp
+- License: The Unlicense
+- The executable is not embedded in this generated package because network retrieval was unavailable during packaging. Use download_yt-dlp.bat to obtain the official current Windows binary.
+
+PyInstaller
+- Website: https://pyinstaller.org/
+- License: GPL with a special exception permitting distribution of bundled applications.
+
+Python / Tkinter
+- Website: https://www.python.org/
+- License: Python Software Foundation License.

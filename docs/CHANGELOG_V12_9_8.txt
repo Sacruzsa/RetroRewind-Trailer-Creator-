@@ -1,0 +1,8 @@
+RETROREWIND TRAILER CREATOR 12.9.8
+
+- Tab 3 Game Video bevat nu een knop Bestand verwijderen.
+- De knop vraagt altijd bevestiging voordat geselecteerde videobestanden fysiek uit de gekoppelde map worden verwijderd.
+- De bestaande min-knop blijft beschikbaar om clips alleen uit de lijst te verwijderen.
+- De pictogramweergave toont nu automatisch een screenshot uit ieder videobestand in plaats van het applicatiepictogram.
+- Screenshots worden lokaal gecachet voor een snellere volgende weergave.
+- MAAK DEFINITIEVE SETUP.bat controleert voortaan eerst de Python-broncode en bouwt versie 12.9.8.

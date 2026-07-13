@@ -1,0 +1,7 @@
+RETROREWIND TRAILER CREATOR V13.0.1
+
+- Game Video bevat nu een apart overzicht van gecreëerde RR_Channel_Public.mp4-bestanden.
+- De bestaande vuilbakknop verwijdert uit de actieve clip- of Game Video-lijst.
+- Preview onderscheidt gedownloade, geconverteerde en gecreëerde video’s in aparte rubrieken.
+- Created by Sacruzsa wordt nog maar op één subtiele plaats per venster getoond.
+- Setup- en buildbestanden bijgewerkt.

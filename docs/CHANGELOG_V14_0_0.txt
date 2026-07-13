@@ -1,0 +1,10 @@
+RetroRewind Trailer Creator V14.0.0
+
+- Nieuwe professionele distributiestructuur met Inno Setup.
+- Volledige Setup.exe en afzonderlijke Update.exe zonder Python voor eindgebruikers.
+- Update controleert de bestaande installatie en ondersteunde vorige versie.
+- Automatische back-up van programmabestanden vóór een update.
+- Instellingen en videomappen blijven behouden.
+- De updater kan de applicatie na afloop opnieuw starten.
+- Lokale manifest- en versiebestanden toegevoegd voor toekomstige online updates.
+- PyInstaller blijft onedir en UPX wordt niet gebruikt om fout-positieve antivirusmeldingen te beperken.

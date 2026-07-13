@@ -1,0 +1,9 @@
+RetroRewind Trailer Creator V13.0.0
+
+- Interne FFmpeg-preview hersteld: frames worden rechtstreeks als binaire PPM aan Tk geleverd.
+- Preview-keuze toont zowel geconverteerde clips als aangemaakte Game Video’s.
+- De Play-knop links van de Game Video-lijst speelt de geselecteerde clip af.
+- Mapkoppelingen gebruiken nu consequent de ingestelde converted- en final-mappen.
+- Instellingen- en previewvensters worden automatisch aan schermgrootte en DPI aangepast.
+- Onderdelen en actieknoppen blijven zichtbaar op kleinere schermen.
+- Setup- en updatebestanden bijgewerkt voor V13.0.0.

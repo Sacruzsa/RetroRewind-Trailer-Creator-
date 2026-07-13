@@ -1,0 +1,13 @@
+RETROREWIND TRAILER CREATOR 12.2.0
+
+- Genummerde regels toegevoegd aan het linkveld in tab 1.
+- Subtiele afwisselende rijachtergronden en lijngeleiding toegevoegd.
+- Nummering blijft correct bij typen, plakken, verwijderen en scrollen.
+- Gebruiksaanwijzing volledig uitgebreid; Snelkoppeling staat nu als eerste onderdeel.
+- Visuele uitleg en een werkende Snelkoppeling-knop toegevoegd aan de ingebouwde handleiding.
+- HTML-handleiding uitgebreid.
+- Werkbestanden gegroepeerd in de verborgen map .workspace.
+- Oudere rootmappen downloads, converted videos en final worden automatisch gemigreerd.
+- Build gebruikt PyInstaller --contents-directory _internal.
+- Buildscript verbergt _internal en .workspace, zodat alleen de EXE zichtbaar blijft.
+- Bestaande download-, conversie-, samenvoeg-, taal-, thema- en mapbewakingsfuncties behouden.

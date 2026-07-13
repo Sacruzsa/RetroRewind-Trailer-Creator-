@@ -1,0 +1,20 @@
+RETROREWIND TRAILER CREATOR 12.4.0
+
+- Nieuwe centrale knop Instellingen.
+- Taal, thema en snelkoppeling verplaatst naar Instellingen.
+- Vrij instelbare mappen voor downloads, geconverteerde video's en finale video's.
+- Contactvenster met naam, onderwerp, bericht en meerdere bijlagen.
+- Automatische verzending via een lokaal geconfigureerde Microsoft Outlook-installatie.
+- Veilige fallback naar het standaard e-mailprogramma wanneer Outlook niet beschikbaar is.
+- Contactadres wordt nergens in de zichtbare gebruikersinterface getoond.
+- Bronstructuur opgeschoond: assets, documentatie, licenties, broncode en tools in aparte mappen.
+- PyInstaller-build houdt alle runtimebestanden in de map _internal; de distributieroot bevat alleen de EXE.
+- Bestaande download-, conversie-, samenvoeg-, lijst-, pictogram- en snelkoppelingsfuncties behouden.
+
+INSTALLATIE-UPDATE
+- build_release.bat hernoemd naar install RRTC.bat.
+- De gebruiker kiest vóór het bouwen zelf de installatielocatie.
+- Build- en distbestanden worden uitsluitend in een tijdelijke Windows-map gemaakt.
+- De bronmap blijft vrij van build- en distmappen.
+- Bestaande .workspace-bestanden blijven behouden bij updates.
+- Optionele bureaubladsnelkoppeling en direct starten toegevoegd.

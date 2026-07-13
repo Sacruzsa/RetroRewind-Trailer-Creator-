@@ -1,0 +1,7 @@
+RetroRewind Trailer Creator V14.0.0
+
+- Convert-menu opgesplitst in twee ingebouwde tabs.
+- Tab 1 toont video's die nog geconverteerd moeten worden.
+- Tab 2 toont reeds geconverteerde video's.
+- Geen popup: beide weergaven blijven onderdeel van het hoofdvenster.
+- Alle bestaande conversie-, vernieuw-, wis- en mapfuncties behouden.

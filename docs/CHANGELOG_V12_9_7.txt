@@ -1,0 +1,8 @@
+RETROREWIND TRAILER CREATOR 12.9.7
+
+- Zes geïntegreerde, direct selecteerbare VHS-interfaces.
+- Lichte VHS, Donkere VHS, Silver Pro, Classic Beige, Blue Retro en Retro Pro.
+- Retro Pro bevat stereo-levelmeters.
+- Verbeterd contrast, grotere leesbare bediening en consistente kleuren.
+- Bestaande thema-instellingen worden automatisch gemigreerd.
+- Alle download-, conversie-, samenvoeg-, taal-, map- en installatiefuncties zijn behouden.

@@ -1,0 +1,6 @@
+RetroRewind Trailer Creator 12.9.5
+
+- De volledige installerinterface wisselt nu onmiddellijk naar de geselecteerde taal.
+- De aangepaste pagina voor de videomaplocatie is vertaald in Nederlands, Frans, Engels en Duits.
+- Validatie- en foutmeldingen van de videomapkeuze volgen eveneens de gekozen installatietaal.
+- Alle bestaande functies en opslaginstellingen zijn behouden.

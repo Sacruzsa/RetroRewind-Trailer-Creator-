@@ -1,0 +1,12 @@
+RETROREWIND TRAILER CREATOR 12.6.0
+
+- Installer dialogs are forced to the foreground through a topmost owner window.
+- Settings reorganized into Appearance, Language, Shortcut and Contact tabs.
+- Folder paths remain available under Appearance to preserve functionality.
+- Language changes are saved and applied immediately without restarting.
+- Main interface rebuild preserves URLs, file lists, output path and selected tab.
+- Fixed clipped content in Convert and Game Video tabs after language changes.
+- Main tabs now use stable compact sizing in every language.
+- Removed the permanent bottom progress panel.
+- Download, conversion and final-video operations now open a modal progress popup.
+- Progress popup shows status, animated progress and operation log and closes automatically.

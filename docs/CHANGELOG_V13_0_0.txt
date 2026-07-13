@@ -1,0 +1,12 @@
+RetroRewind Trailer Creator V13.0.0
+
+- Eerste officiële versie 13.
+- Map geconverteerde video’s-knop toegevoegd boven de converted-lijst in vier talen.
+- Handleidingicoon vervangen door een boek.
+- Handleiding uitgebreid met alle knoppen en previewfuncties.
+- Game Video-bediening vereenvoudigd en herschikt.
+- Clips toevoegen, Lijst wissen en min-knop verwijderd.
+- Vuilbakknop vervangt de min-knop.
+- Game Video maken hernoemd naar Genereer Game Video.
+- Open Final hernoemd naar Game Video Locatie.
+- Build- en installerbestanden bijgewerkt.

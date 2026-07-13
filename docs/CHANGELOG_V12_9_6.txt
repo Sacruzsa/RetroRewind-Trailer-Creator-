@@ -1,0 +1,8 @@
+RETROREWIND TRAILER CREATOR — V12.9.7
+
+- Volledige VHS/videorecorder-geïnspireerde hoofdinterface.
+- Nieuwe metalen recorderbehuizing, cassettegleuf, digitaal groen display en status-LED.
+- Functionele transportknoppen voor Download, Converteren, Game Video, Stop, Instellingen en REC/Create.
+- Bestaande lichte, donkere en gemengde thema's behouden in VHS-stijl.
+- Alle download-, conversie-, export-, taal-, map-, contact- en installatiefuncties behouden.
+- Geen wijzigingen aan de gekozen opslaglocaties of automatische mapaanmaak.
